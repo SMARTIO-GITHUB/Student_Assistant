@@ -1,10 +1,12 @@
 #include <stdio.h>
 
-#define INDEX 2
+/*
+ * 課題：変数variableの持つ値を文字として出力しなさい
+ */
 
 int main(void){
-	char str[] = "Hello, do you understand pointer?";
-	char c = str[INDEX];
-	printf("str[INDEX] = %c\n",c);
+	unsigned int variable = 0x41;
+	unsigned int *pointer = /*here*/&variable/*here*/;
+	printf("variable character is %c\n",(char)*pointer);
 	return 0;
 }
