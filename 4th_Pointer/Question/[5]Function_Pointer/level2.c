@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+ * 課題：printMessage関数を関数ポインタを使って呼び出せ。ただし、引数を与えること
+ */
+
 void printMessage(int n){
 	int i,j;
 	printf("Here is # tower!\n");
@@ -15,7 +19,7 @@ void printMessage(int n){
 
 int main(void){
 	int n;
-	void (*pointer)(int);
+	/*here*//*here*/;
 	pointer = printMessage;
 
 	printf("Enter the number: ");

@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+/*
+ * 課題：printMessage関数を関数ポインタを使って呼び出せ
+ */
+
 void printMessage(){
 	printf("Hello Function Pointer!\n");
 	return;
@@ -8,7 +12,7 @@ void printMessage(){
 
 int main(void){
 	void (*pointer)();
-	pointer = printMessage;
+	/*here*/pointer = printMessage/*here*/;
 
 	pointer();
 

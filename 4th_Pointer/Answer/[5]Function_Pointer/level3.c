@@ -2,6 +2,10 @@
 #include <stdlib.h>
 #include <time.h>
 
+/*
+ * 課題：以下の関数を関数ポインタを使って呼び出せ
+ */
+
 void printMessage(int n){
 	int i,j;
 	printf("Here is # tower!\n");
@@ -21,10 +25,10 @@ int getrandomnumber(void){
 
 int main(void){
 	int n;
-	int (*fpointer1)(void);
+	/*here*/int (*fpointer1)(void)/*here*/;
 	void (*fpointer2)(int);
 	fpointer1 = getrandomnumber;
-	fpointer2 = printMessage;
+	/*here*/fpointer2 = printMessage/*here*/;
 	
 	
 	n = fpointer1();
