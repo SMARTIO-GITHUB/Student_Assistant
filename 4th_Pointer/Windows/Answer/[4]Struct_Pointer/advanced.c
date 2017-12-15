@@ -46,7 +46,8 @@ void createLinkedList(int n, struct LinkedList *head){
 		ptr->serialnumber = getserialnumber();
 		prev->next = ptr;
 		prev = ptr;
-	}		
+	}
+	ptr->next = NULL;	
 }	
 
 void viewLinkedList(struct LinkedList *head){
