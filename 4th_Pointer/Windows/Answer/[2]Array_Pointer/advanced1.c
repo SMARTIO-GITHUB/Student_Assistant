@@ -26,13 +26,12 @@ int main(void){
 
 	char *str = (char *)array;
 	int i;
-
+	/*here*/
 	for(i = 0; i < sizeof(array); i++){
 		printf("%c",str[i]);
 	}
 	printf("\n");	
-	
-	//printf("array[2] = %d !\n",/*here*/array[2]/*here*/);
+	/*here*/
 
 	return 0;
 }
