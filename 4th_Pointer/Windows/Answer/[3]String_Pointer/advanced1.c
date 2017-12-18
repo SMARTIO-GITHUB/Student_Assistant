@@ -2,8 +2,8 @@
 #include <string.h>
 
 /*
- * èª²é¡Œï¼šæ–‡å­—åˆ—ã®é•·ã•ã‚’èª¿ã¹ã‚‹mystrlenã‚’å®Ÿè£…ã›ã‚ˆã€‚
- * ãŸã ã—ã€mystrlenã®ä¸­ã§ã¯strlenãªã©ã¯ä½¿ãˆãšã€ãƒ©ã‚¤ãƒ–ãƒ©ãƒªæŠœãã§å®Œæˆã•ã›ã‚‹ã“ã¨ã€‚
+ * ‰Û‘èF•¶Žš—ñ‚Ì’·‚³‚ð’²‚×‚émystrlen‚ðŽÀ‘•‚¹‚æB
+ * ‚½‚¾‚µAmystrlen‚Ì’†‚Å‚Ístrlen‚È‚Ç‚ÍŽg‚¦‚¸Aƒ‰ƒCƒuƒ‰ƒŠ”²‚«‚ÅŠ®¬‚³‚¹‚é‚±‚ÆB
  */
 
 int mystrlen(char *c){

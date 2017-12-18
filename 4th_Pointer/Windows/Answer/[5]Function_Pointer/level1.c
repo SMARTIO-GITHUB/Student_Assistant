@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * èª²é¡Œï¼šprintMessageé–¢æ•°ã‚’é–¢æ•°ãƒã‚¤ãƒ³ã‚¿ã‚’ä½¿ã£ã¦å‘¼ã³å‡ºã›
+ * ‰Û‘èFprintMessageŠÖ”‚ğŠÖ”ƒ|ƒCƒ“ƒ^‚ğg‚Á‚ÄŒÄ‚Ño‚¹
  */
 
 void printMessage(){

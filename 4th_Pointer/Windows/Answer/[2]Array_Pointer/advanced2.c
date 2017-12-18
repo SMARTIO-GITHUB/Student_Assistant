@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /*
- * 課題：2次元配列array2dを1次元配列と捉えて、
- * for文を1個だけ使ってすべての値を出力しなさい
- * ただしfor文の中に使えるインデックス変数はiのみで、jなどは使えません
+ * �ۑ�F2�����z��array2d��1�����z��Ƒ����āA
+ * for����1�����g���Ă��ׂĂ̒l���o�͂��Ȃ���
+ * ������for���̒��Ɏg����C���f�b�N�X�ϐ���i�݂̂ŁAj�Ȃǂ͎g���܂���
  */
 
 int main(void){

@@ -1,11 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 /*
- * 課題：Game構造体を一つ作成したので、その中のメンバに適切な値を設定せよ。
- * ただし、設定する値は次のとおりとし、newgame_pointer変数以外は使ってはならない。
+ * �ۑ�FGame�\���̂���쐬�����̂ŁA���̒��̃����o�ɓK�؂Ȓl��ݒ肹��B
+ * �������A�ݒ肷��l�͎��̂Ƃ���Ƃ��Anewgame_pointer�ϐ��ȊO�͎g���Ă͂Ȃ�Ȃ��B
  * name:"MONSTER_HUNTER_WORLD"
  * price:8980
- * 尚、今回のデータはこちらから参照している。そのため、値段や名称等は変更される恐れがある。
+ * ���A����̃f�[�^�͂����炩��Q�Ƃ��Ă���B���̂��߁A�l�i�▼�̓��͕ύX����鋰�ꂪ����B
  * http://www.capcom.co.jp/monsterhunter/world/
  */
 

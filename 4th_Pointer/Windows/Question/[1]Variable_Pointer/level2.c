@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* 
- * 隱ｲ鬘鯉ｼ壹�昴う繝ｳ繧ｿ螟画焚pointer縺ｮ謖�縺礼､ｺ縺吝､(variable)繧定｡ｨ遉ｺ縺励↑縺輔＞
+ * 課題：ポインタ変数pointerの指し示す値(variable)を表示しなさい
  */
 int main(void){
 	int variable = 100;

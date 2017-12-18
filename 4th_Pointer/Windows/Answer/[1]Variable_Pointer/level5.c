@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * 課題：変数variableの持つ値を文字として出力しなさい
+ * �ۑ�F�ϐ�variable�̎��l�𕶎��Ƃ��ďo�͂��Ȃ���
  */
 
 int main(void){

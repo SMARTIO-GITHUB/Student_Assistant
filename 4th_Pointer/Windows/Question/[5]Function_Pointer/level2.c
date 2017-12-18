@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * 隱ｲ鬘鯉ｼ嗔rintMessage髢｢謨ｰ繧帝未謨ｰ繝昴う繝ｳ繧ｿ繧剃ｽｿ縺｣縺ｦ蜻ｼ縺ｳ蜃ｺ縺帙ゅ◆縺縺励∝ｼ墓焚繧剃ｸ弱∴繧九％縺ｨ
+ * 課題：printMessage関数を関数ポインタを使って呼び出せ。ただし、引数を与えること
  */
 
 void printMessage(int n){

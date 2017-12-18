@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /* 
- * 隱ｲ鬘鯉ｼ嘖aga_of_tanya_the_evil螟画焚縺ｮ蛟､繧偵［egaman_battle_network縺ｮ螟画焚繧剃ｽｿ縺｣縺ｦ蜃ｺ蜉帙＆縺帙↑縺輔＞
- * 縺溘□縺励√�昴う繝ｳ繧ｿ繧偵◆縺ｩ繧矩圀縺ｮ蝗樊焚縺ｨ縲∵枚蟄怜�苓｡ｨ遉ｺ縺ｫ縺ｯ豕ｨ諢上☆繧九％縺ｨ
+ * 課題：saga_of_tanya_the_evil変数の値を、megaman_battle_networkの変数を使って出力させなさい
+ * ただし、ポインタをたどる際の回数と、文字列表示には注意すること
  */
 
 int main(void){

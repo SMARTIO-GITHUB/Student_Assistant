@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * 課題：文字配列の中からdefine INDEXで宣言されている数字のインデックスにあたる文字だけを出力せよ
+ * �ۑ�F�����z��̒�����define INDEX�Ő錾����Ă��鐔���̃C���f�b�N�X�ɂ����镶���������o�͂���
  */
 
 #define INDEX 2

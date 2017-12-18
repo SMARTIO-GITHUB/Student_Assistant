@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 /*
- * èª²é¡Œï¼šASCIIã‚³ãƒ¼ãƒ‰ã‚’èª¿ã¹ã¦ã€your_alphabet_hereå¤‰æ•°ã«å¯¾ã—å¥½ããª4æ–‡å­—ã‚’å‡ºåŠ›ã§ãã‚‹ã‚ˆã†è¨­å®šã—ãªã•ã„
- * ä¾‹ï¼š"GOOD","BOMB","LOVE"ãªã©
+ * ‰Û‘èFASCIIƒR[ƒh‚ğ’²‚×‚ÄAyour_alphabet_here•Ï”‚É‘Î‚µD‚«‚È4•¶š‚ğo—Í‚Å‚«‚é‚æ‚¤İ’è‚µ‚È‚³‚¢
+ * —áF"GOOD","BOMB","LOVE"‚È‚Ç
  */
 
 int main(void){
-	unsigned int your_alphabet_here = /*here*/0x61626364/*here*/;//16é€²æ•°ã¨ã—ã¦å¤‰æ•°ã‚’å®£è¨€ã™ã‚‹å ´åˆã¯ã€æ•°å€¤ã®å…ˆé ­ã«0xã‚’ä»˜ã‘ã‚‹ã®ãŒãƒ«ãƒ¼ãƒ«ã§ã™
+	unsigned int your_alphabet_here = /*here*/0x61626364/*here*/;//16i”‚Æ‚µ‚Ä•Ï”‚ğéŒ¾‚·‚éê‡‚ÍA”’l‚Ìæ“ª‚É0x‚ğ•t‚¯‚é‚Ì‚ªƒ‹[ƒ‹‚Å‚·
 	printf("Your alphabet is %s\n",(char *)&your_alphabet_here);
 	return 0;
 }

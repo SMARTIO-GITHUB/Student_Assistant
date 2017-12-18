@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * 課題：bufに対し文字列として入力するように実装せよ
+ * �ۑ�Fbuf�ɑ΂�������Ƃ��ē��͂���悤�Ɏ�������
  */
 
 int main(void){

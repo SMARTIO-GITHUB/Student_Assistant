@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /*
- * 課題：arrayという配列はint型の配列となっていますが、
- * これをchar型の配列だと捉えて、中にある文字を出力しなさい
+ * �ۑ�Farray�Ƃ����z���int�^�̔z��ƂȂ��Ă��܂����A
+ * �����char�^�̔z�񂾂Ƒ����āA���ɂ��镶�����o�͂��Ȃ���
  */
 
 int main(void){

@@ -2,14 +2,14 @@
 #include <string.h>
 
 /*
- * 課題：文字列の比較を行うmystrcmpを実装せよ。
- * ただし、strcmpなどは使えず、ライブラリ抜きで実装せよ。
+ * �ۑ�F������̔�r���s��mystrcmp����������B
+ * �������Astrcmp�Ȃǂ͎g�����A���C�u���������Ŏ�������B
  */
 
 
-//Hint 1 : 文字列の長さが異なる場合は-1を返すこと
-//Hint 2 : 文字列は一文字ずつ比較し、途中で異なれば-1を返すこと
-//Hint 3 : 文字列を最後まで調べて、どちらにも差異がなければ0を返すこと
+//Hint 1 : ������̒������قȂ�ꍇ��-1��Ԃ�����
+//Hint 2 : ������͈ꕶ������r���A�r���ňقȂ��-1��Ԃ�����
+//Hint 3 : ��������Ō�܂Œ��ׂāA�ǂ���ɂ����ق��Ȃ����0��Ԃ�����
 int mystrcmp(char *c1, char *c2){
 	char *ptr1, *ptr2;
 	int i;

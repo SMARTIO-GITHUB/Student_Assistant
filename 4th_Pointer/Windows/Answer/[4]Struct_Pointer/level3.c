@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 /*
- * 課題：Game構造体の配列を作成した。この中身をすべて出力せよ。
- * 尚、今回のデータはこちらから参照している。そのため、値段や名称等は変更される恐れがある。
+ * �ۑ�FGame�\���̂̔z����쐬�����B���̒��g�����ׂďo�͂���B
+ * ���A����̃f�[�^�͂����炩��Q�Ƃ��Ă���B���̂��߁A�l�i�▼�̓��͕ύX����鋰�ꂪ����B
  * http://www.capcom.co.jp/monsterhunter/world/
  * http://www.ubisoft.co.jp/wd2/about/index.html
  * https://www.nintendo.co.jp/switch/aab6a/index.html

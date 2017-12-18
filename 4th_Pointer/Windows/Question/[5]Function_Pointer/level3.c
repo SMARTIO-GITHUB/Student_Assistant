@@ -3,7 +3,7 @@
 #include <time.h>
 
 /*
- * 課題：以下の関数を関数ポインタを使って呼び出せ
+ * �ۑ�F�ȉ��̊֐����֐��|�C���^���g���ČĂяo��
  */
 
 void printMessage(int n){
